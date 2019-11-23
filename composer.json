@@ -10,5 +10,6 @@
             "cURL\\Robot\\": "src/",
             "cURL\\Robot\\Tests\\": "tests/"
         }
-    }
+    },
+     "minimum-stability": "dev"
 }
